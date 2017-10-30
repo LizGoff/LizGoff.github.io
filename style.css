@@ -13,13 +13,14 @@ body{
 .content{
   width:80%;
   margin:auto;
+  border-left:solid;
+  Border-width:3px;
 }
 
 #contact{
-  background-color:#dae6f1;
+  background-color:#79a6d2;
   color:#595959;
   font-family:Arial;
-  font-weight:200;
   fontstyle:normal;
   letter-spacing:0.2em;
   border-top:solid;
