@@ -19,7 +19,7 @@ body{
   background-color:#dae6f1;
   color:#595959;
   font-family:Arial;
-  font-size: 14pt;
+  font-size:12pt;
   fontstyle:normal;
   letter-spacing:0.2em;
   border-bottom:solid;
@@ -32,11 +32,11 @@ body{
 #contact h1{
   color:#4d4d4d;
   font-family:Times New Roman;
-  font-weight:600;
+  font-weight:400;
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
-  padding-bottom:10px
+  padding-bottom:20px
 
 }
 
@@ -97,7 +97,7 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
-  margin:30px;
+  margin:20px;
 }
 
 #block01{
