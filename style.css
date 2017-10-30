@@ -116,7 +116,7 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
-  margin:20px;
+  margin:10px;
   padding:10px;
 }
 
@@ -199,7 +199,7 @@ body{
 }
 
 #DB02 h3{
-  color:##336699;
+  color:#336699;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
