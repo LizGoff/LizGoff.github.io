@@ -9,7 +9,7 @@ body{
   font: normal 14px Arial, Helvetica, sans-serif;
   
   Line-height:1.6em;
-  margin:0;
+  margin-left:20;
 }
 
 .content{
@@ -35,6 +35,18 @@ body{
   text-decoration:underline;
   letter-spacing:0.2em;
   word-spacing:0.3em;
+
+}
+
+#summary h2{
+  font-family:Times New Roman;
+  font-weight:400;
+  font-style:normal;
+  letter-spacing:0.2em;
+  word-spacing:0.3em;
+  
+  margin:10px;
+  padding:20px;
 
 }
 
