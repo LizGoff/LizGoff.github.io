@@ -41,7 +41,7 @@ body{
 }
 
 #summary h2{
-  color:#595959;
+  color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -54,7 +54,7 @@ body{
 }
 
 #experiance h2{
-  color:#595959;
+  color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -67,7 +67,7 @@ body{
 }
 
 #LECI h3{
-  color:#595959;
+  color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -105,14 +105,13 @@ body{
   font-family:Arial;
   font-weight:200;
   font-style:normal;
-  letter-spacing:0.2em;
   Line-height:2em;  
   margin-left:20px;
   
 }
 
 #RB h3{
-  color:#595959;
+  color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -140,14 +139,13 @@ body{
   font-family:Arial;
   font-weight:200;
   font-style:normal;
-  letter-spacing:0.2em;
   Line-height:2em;  
   margin-left:20px;
   
 }
 
 #DB01 h3{
-  color:#595959;
+  color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -175,14 +173,13 @@ body{
   font-family:Arial;
   font-weight:200;
   font-style:normal;
-  letter-spacing:0.2em;
   Line-height:2em;  
   margin-left:20px;
   
 }
 
 #DB02 h3{
-  color:#595959;
+  color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -210,7 +207,6 @@ body{
   font-family:Arial;
   font-weight:200;
   font-style:normal;
-  letter-spacing:0.2em;
   Line-height:2em;  
   margin-left:20px;
   
