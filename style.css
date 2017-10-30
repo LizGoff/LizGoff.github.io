@@ -18,11 +18,11 @@ body{
 }
 
 #contact{
-  background-color:#ffd699;
+  background-color:#dae6f1;
   color:#000;
   font:normal 14px verdana, Arial, san-serif;
   border-style:solid;
-  border-width:3px;
+  border-width:1px;
   margin:10px
   padding:20px;
 }
