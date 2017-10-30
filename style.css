@@ -22,20 +22,18 @@ body{
   background-color:#4080bf;
   color:#fff;
   font:normal 16px verdana, Arial, san-serif;
-  
   margin: 10px
-  border-left:10px #000 solid;
-  
+  border:1px 1px 1px 10px #000 solid;
   padding: 20px;
 }
 
 #contact h1{
-  font-family:Verdana
-  font-weight:800:
-  font-style:italic
+  font-family:Verdana;
+  font-weight:800;
+  font-style:italic;
   text-decoration:underline;
-  letter-spacing:0.2em
-  word spacing:1em;
+  letter-spacing:0.2em;
+  word-spacing:1em;
 
 }
 
