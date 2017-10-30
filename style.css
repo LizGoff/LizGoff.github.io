@@ -19,11 +19,11 @@ body{
   background-color:#dae6f1;
   color:#595959;
   font-family:Arial;
-  font-size:12pt;
+  font-weight:200;
   fontstyle:normal;
   letter-spacing:0.2em;
-  border-bottom:solid;
-  border-left:solid;
+  border-top:solid;
+  border-right:solid;
   border-width:1px;
   margin:10px;
   padding:20px;
@@ -107,7 +107,8 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
-  margin:20px;
+  margin:10px;
+  padding:10px;
 }
 
 #block01{
