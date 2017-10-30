@@ -1,3 +1,7 @@
+*{
+  margin:0;
+}
+
 body{
   background-color:#f4f4f4;
   color:000;
@@ -14,18 +18,18 @@ body{
 }
 
 #contact{
-  background-color:#4080bf;
+  background-color:#333;
   color:#fff;
   font:normal 16px verdana, Arial, san-serif;
   margin: 10px
-  border:1px 1px 1px 10px #000 solid;
+  border:5px #000 solid;
   padding: 20px;
 }
 
 #contact h1{
-  font-family:Verdana;
+  font-family:AriaL;
   font-weight:800;
-  font-style:italic;
+  font-style:bold;
   text-decoration:underline;
   letter-spacing:0.2em;
   word-spacing:0.3em;
