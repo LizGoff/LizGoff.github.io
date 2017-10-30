@@ -1,8 +1,9 @@
-body {
-  background: #EEE;
-  margin: 25;
-  padding: 25;
-
+body{
+  background-color:f4f4f4
+  color:000
+  
+  font: normal 16px Arial, Helvetica, sans-serif;
+  
+  Line-height:1.6em
 }
-
 
