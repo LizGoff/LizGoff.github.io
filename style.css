@@ -221,6 +221,7 @@ body{
   font-weight:200;
   font-style:normal;
   Line-height:2em;  
+  margin-bottom:30px;
   margin-left:20px;
   
 }
@@ -232,10 +233,10 @@ background-color:#79a6d2;
   font-weight:200;
   fontstyle:normal;
   letter-spacing:0.2em;
-  border-top:solid;
+  border-bottom:solid;
   border-right:solid;
   border-width:1px;
-  margin:0px;
+  margin:auto;
   padding:20px;
   
 }
