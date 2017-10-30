@@ -26,13 +26,13 @@ body{
   letter-spacing:0.2em;
   border-top:solid;
   border-right:solid;
-  border-width:1px;
+  border-width:2px;
   margin:0px;
   padding:20px;
 }
 
 #contact h1{
-  color:#e6e6e6;
+  color:#f2f2f2;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -79,7 +79,7 @@ body{
 }
 
 #LECI h3{
-  color:#79a6d2;
+  color:#336699;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -124,7 +124,7 @@ body{
 }
 
 #RB h3{
-  color:#79a6d2;
+  color:#336699
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -158,7 +158,7 @@ body{
 }
 
 #DB01 h3{
-  color:#79a6d2;
+  color:#336699;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -192,7 +192,7 @@ body{
 }
 
 #DB02 h3{
-  color:#79a6d2;
+  color:##336699;
   font-family:Times New Roman;
   font-weight:400;
   font-style:normal;
@@ -227,7 +227,7 @@ body{
 }
 
 #foot{
-background-color:#79a6d2;
+background-color:#336699;
   color:#4d4d4d;
   font-family:Times New Roman;
   font-weight:200;
@@ -235,8 +235,9 @@ background-color:#79a6d2;
   letter-spacing:0.2em;
   border-bottom:solid;
   border-right:solid;
-  border-width:1px;
+  border-width:2px;
   margin:auto;
+  text-aline:center;
   padding:20px;
   
 }
