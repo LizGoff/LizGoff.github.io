@@ -87,7 +87,17 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
-  
+  margin:10px;
+}
+
+#LECI a{
+  color:#336699;
+  font-family:Arial;
+  font-weight:300;
+  font-style:normal;
+  letter-spacing:0.2em;
+  word-spacing:0.3em;
+  margin:10px;
 }
 
 #RB h3{
@@ -109,6 +119,7 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
+  margin:10px;
   
 }
 
@@ -131,6 +142,7 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
+  margin:10px;
   
 }
 
@@ -153,6 +165,7 @@ body{
   font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
+  margin:10px;
   
 }
 
