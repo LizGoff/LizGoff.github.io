@@ -1,5 +1,5 @@
 body{
-  background-color:f4f4f4;
+  background-color:#f4f4f4;
   color:000;
   
   font: normal 14px Arial, Helvetica, sans-serif;
@@ -8,6 +8,17 @@ body{
   margin:0;
 }
 
+.content{
+  width:80%;
+  margin:auto;
+}
 
+#contact{
+  background-color:#4080bf;
+  color:#fff;
+  font:italic 16px verdana, Arial, san-serif;
+  margin: 10px
+  broder-left:10px #000 solid;
+}
 
 
