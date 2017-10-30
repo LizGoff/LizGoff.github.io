@@ -53,6 +53,16 @@ body{
 
 }
 
+#sumcontent{
+  color:#808080;
+  font-family:Arial;
+  font-weight:200;
+  font-style:normal;
+  Line-height:2em;  
+  margin-left:20px;
+  
+}
+
 #experiance h2{
   color:#4d4d4d;
   font-family:Times New Roman;
