@@ -22,7 +22,7 @@ body{
   color:#fff;
   font-family:Times New Roman;
   font-weight:200;
-  fontstyle:normal;
+  fontstyle:bold;
   letter-spacing:0.2em;
   border-top:solid;
   border-right:solid;
@@ -35,7 +35,7 @@ body{
   color:#fff;
   font-family:Times New Roman;
   font-weight:400;
-  font-style:bold;
+  font-style:normal;
   letter-spacing:0.2em;
   word-spacing:0.3em;
   padding-bottom:20px
@@ -238,7 +238,7 @@ background-color:#79a6d2;
   color:#fff;
   font-family:Times New Roman;
   font-weight:200;
-  fontstyle:normal;
+  fontstyle:bold;
   letter-spacing:0.2em;
   border-bottom:solid;
   border-right:solid;
@@ -253,6 +253,7 @@ background-color:#79a6d2;
   color:#fff;
   font-family:Times New Roman;
   font-weight:200;
+  fontstyle:bold;
   letter-spacing:0.2em;
   word-spacing:0.3em;
 
